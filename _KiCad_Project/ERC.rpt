@@ -1,0 +1,17 @@
+ERC report (2026-10-05T00:58:18, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /
+
+***** Sheet /Power/
+
+***** Sheet /ESP32/
+
+***** Sheet /ASIC/
+
+***** Sheet /fan/
+
+ ** ERC messages: 0  Errors 0  Warnings 0
+
+ ** Ignored checks:
+    - SPICE model issue

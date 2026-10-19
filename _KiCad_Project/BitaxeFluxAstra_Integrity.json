@@ -1,0 +1,212 @@
+{
+  "all_static_checks_passed": true,
+  "static_check_count": 1488,
+  "statistics": {
+    "pcb_setup": 1,
+    "pcb_layers": 1,
+    "pcb_general": 1,
+    "pcb_title_block": 1,
+    "pcb_gr_text": 12,
+    "pcb_gr_line": 7,
+    "pcb_gr_rect": 7,
+    "pcb_gr_arc": 0,
+    "pcb_gr_poly": 0,
+    "pcb_segment": 981,
+    "pcb_via": 306,
+    "pcb_zone": 22,
+    "pcb_group": 2,
+    "A1_position_rotation": [
+      "165.911041",
+      "103.476103",
+      "90"
+    ],
+    "A1_pad_objects": 156,
+    "A1_pad_geometry_sha256": "573ad74d2ad4e24457af6ff38c6f016a31dd9667be91502c2b72e2b767d92626",
+    "pcb_footprints": 173,
+    "pcb_pad_objects": 789,
+    "pcb_footprint_placement_sha256": "4f797491034203b4f9c033717750d95abf76883bd192bd9396c91f0ab60dd7b3",
+    "schematic_counts": {
+      "wire": 862,
+      "bus": 0,
+      "bus_entry": 0,
+      "junction": 216,
+      "no_connect": 33,
+      "label": 222,
+      "global_label": 0,
+      "hierarchical_label": 38,
+      "symbol_instances": 215,
+      "physical_schematic_components": 186,
+      "unique_physical_refs": 186
+    },
+    "DNP": [
+      "C201",
+      "C202",
+      "D1",
+      "R27",
+      "R33",
+      "R35",
+      "R49",
+      "R50",
+      "R51",
+      "R52",
+      "R53",
+      "R54",
+      "R55"
+    ],
+    "symbol_count": 48,
+    "footprint_library_count": 32,
+    "local_model_count": 10,
+    "standard_KiCad_model_dependencies": [
+      "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_6.3x5.9.step",
+      "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step",
+      "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+      "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step",
+      "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step",
+      "${KICAD10_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT60-M_1x02_P7.2mm_Vertical.step",
+      "${KICAD10_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal.step",
+      "${KICAD10_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal.wrl",
+      "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123F.step",
+      "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm.step",
+      "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-16_4.4x5mm_P0.65mm.step",
+      "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.step",
+      "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.step",
+      "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+      "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
+    ],
+    "schematic_structure_sha256": {
+      "BitaxeFluxAstra.kicad_sch": "23d77c74374557f6dddcf627d4d99a9a299350eeca9b6b30eb22de57d0f24d57",
+      "BitaxeFluxAstra_ASIC.kicad_sch": "dc29d45511317a1f986a6420b684db33a116323b21e33187fe56a9d5802c0026",
+      "BitaxeFluxAstra_ESP32.kicad_sch": "ac428df7f67067b4d6f9e3947535c446b85f28a740fbf83ba44b91dc97065674",
+      "BitaxeFluxAstra_Power.kicad_sch": "729468e878177f61bdcc95a4d3cf12027308a1c114e340861a7848ad5cd6fc7f",
+      "BitaxeFluxAstra_fan.kicad_sch": "de480401500af54d276d9abc48051238002272fd314825beecadd799ed712f24"
+    },
+    "intentional_GND_1_substring_matches": [
+      [
+        "BitaxeFluxAstra.kicad_sch",
+        204,
+        "(symbol \"GND_1_1\""
+      ],
+      [
+        "BitaxeFluxAstra.kicad_pcb",
+        12822,
+        "(pinfunction \"GND_10\")"
+      ],
+      [
+        "BitaxeFluxAstra.kicad_pcb",
+        13833,
+        "(pinfunction \"PGND_13\")"
+      ],
+      [
+        "BitaxeFluxAstra.kicad_pcb",
+        13843,
+        "(pinfunction \"PGND_14\")"
+      ],
+      [
+        "BitaxeFluxAstra.kicad_pcb",
+        13853,
+        "(pinfunction \"PGND_15\")"
+      ],
+      [
+        "BitaxeFluxAstra.kicad_pcb",
+        13863,
+        "(pinfunction \"PGND_16\")"
+      ],
+      [
+        "BitaxeFluxAstra.kicad_pcb",
+        13873,
+        "(pinfunction \"PGND_17\")"
+      ],
+      [
+        "BitaxeFluxAstra.kicad_pcb",
+        13883,
+        "(pinfunction \"PGND_18\")"
+      ],
+      [
+        "BitaxeFluxAstra.kicad_pcb",
+        13893,
+        "(pinfunction \"PGND_19\")"
+      ],
+      [
+        "BitaxeFluxAstra.kicad_pcb",
+        18632,
+        "(pinfunction \"PGND_13\")"
+      ],
+      [
+        "BitaxeFluxAstra.kicad_pcb",
+        18642,
+        "(pinfunction \"PGND_14\")"
+      ],
+      [
+        "BitaxeFluxAstra.kicad_pcb",
+        18652,
+        "(pinfunction \"PGND_15\")"
+      ],
+      [
+        "BitaxeFluxAstra.kicad_pcb",
+        18662,
+        "(pinfunction \"PGND_16\")"
+      ],
+      [
+        "BitaxeFluxAstra.kicad_pcb",
+        18672,
+        "(pinfunction \"PGND_17\")"
+      ],
+      [
+        "BitaxeFluxAstra.kicad_pcb",
+        18682,
+        "(pinfunction \"PGND_18\")"
+      ],
+      [
+        "BitaxeFluxAstra.kicad_pcb",
+        18692,
+        "(pinfunction \"PGND_19\")"
+      ],
+      [
+        "BitaxeFluxAstra.kicad_pcb",
+        22628,
+        "(pinfunction \"GND_1\")"
+      ],
+      [
+        "BitaxeFluxAstra.kicad_pcb",
+        34219,
+        "(pinfunction \"GND_1\")"
+      ],
+      [
+        "BitaxeFluxAstra.kicad_pcb",
+        37267,
+        "(pinfunction \"GND_12\")"
+      ],
+      [
+        "BitaxeFluxAstra.kicad_sym",
+        194,
+        "(symbol \"GND_1_1\""
+      ],
+      [
+        "BitaxeFluxAstra_ESP32.kicad_sch",
+        1645,
+        "(symbol \"GND_1_1\""
+      ],
+      [
+        "BitaxeFluxAstra_Power.kicad_sch",
+        2169,
+        "(symbol \"GND_1_1\""
+      ],
+      [
+        "BitaxeFluxAstra_ASIC.kicad_sch",
+        1641,
+        "(symbol \"GND_1_1\""
+      ],
+      [
+        "BitaxeFluxAstra_fan.kicad_sch",
+        1346,
+        "(symbol \"GND_1_1\""
+      ]
+    ]
+  },
+  "native_KiCad_10_open": "NOT RUN - executable unavailable",
+  "ERC": "NOT RUN - executable unavailable",
+  "DRC": "NOT RUN - executable unavailable",
+  "KiCad_exported_netlist_comparison": "NOT RUN - executable unavailable",
+  "connectivity_method": "Exact raw electrical objects, instance properties/UUIDs/placements, pin models and hierarchy ports compared. This is structural equivalence, not a KiCad netlist export.",
+  "ASIC_library_vs_placed_board_pad_geometry": "Identical after subtracting the placed 90-degree rotation from pad angles and ignoring board nets and UUIDs."
+}

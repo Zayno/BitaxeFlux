@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BitaxeFluxAstra") (type "KiCad") (uri "${KIPRJMOD}/BitaxeFluxAstra.kicad_sym") (options "") (descr "Current A1 project-local symbols; approved pin definitions preserved"))
+)
